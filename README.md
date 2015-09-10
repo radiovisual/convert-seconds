@@ -8,7 +8,7 @@ $ npm install --save convert-seconds
 
 ##Usage
 
-Pass in numbers (as `number` or `string` objects), and get an object in return:
+Pass in seconds (as a `number` or `string`), and get an object in return:
 
 ```js
 var convert = require('convert-seconds');
