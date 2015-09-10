@@ -1,0 +1,33 @@
+{
+  "name": "convert-seconds",
+  "version": "1.0.0",
+  "description": "Convert seconds to hours, minutes, seconds",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.3.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiovisual/convert-seconds.git"
+  },
+  "keywords": [
+    "convert",
+    "seconds",
+    "minutes",
+    "hours",
+    "translate",
+    "calculate",
+    "time",
+    "duration"
+  ],
+  "author": "Michael Wuergler <senjudev@gmail.com> (http://numetriclabs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radiovisual/convert-seconds/issues"
+  },
+  "homepage": "https://github.com/radiovisual/convert-seconds#readme"
+}
