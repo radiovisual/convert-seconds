@@ -1,9 +1,8 @@
 {
   "name": "convert-seconds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert seconds to hours, minutes, seconds",
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {
     "mocha": "^2.3.2"
   },
