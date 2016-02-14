@@ -1,12 +1,16 @@
-# convert-seconds [![Build Status](https://travis-ci.org/radiovisual/convert-seconds.svg)](https://travis-ci.org/radiovisual/convert-seconds)
+# convert-seconds 
+
 > Convert seconds to hours, minutes, seconds
 
-##Install
-```sh
+[![Build Status](https://travis-ci.org/radiovisual/convert-seconds.svg)](https://travis-ci.org/radiovisual/convert-seconds)
+
+## Install
+
+```
 $ npm install --save convert-seconds
 ```
 
-##Usage
+## Usage
 
 Pass in seconds (as a `number` or `string`), and get an object in return:
 
@@ -24,10 +28,9 @@ convert('3661').minutes;
 
 convert(3661).seconds;
 // => 1
-
 ```
 
-##License
+## License
 
 MIT @ [Michael Wuergler](http://www.numetriclabs.com)
 
