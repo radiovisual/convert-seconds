@@ -1,6 +1,6 @@
 # convert-seconds 
 
-> Convert seconds to hours, minutes, seconds
+> Convert seconds to days, hours, minutes, seconds
 
 [![Build Status](https://travis-ci.org/radiovisual/convert-seconds.svg)](https://travis-ci.org/radiovisual/convert-seconds)
 
