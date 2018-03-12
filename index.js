@@ -8,7 +8,7 @@ module.exports = function (seconds) {
     }
     var results = {};
     results.days = Math.floor(seconds / 60 / 60 / 24);
-    results.hours = Math.floor(seconds / 60 / 60 -(results.days*24));
+    results.hours = Math.floor(seconds / 60 / 60);
     results.minutes = Math.floor((seconds / 60) % 60);
     results.seconds = Math.floor(seconds % 60);
 
